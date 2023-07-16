@@ -1,5 +1,5 @@
 {
-  "name": "confusion",
+  "name": "m1l3-05-exercise-create-a-registration-form",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,12 +17,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -34,11 +28,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "keywords": [],
-  "author": "Irawan",
-  "license": "MIT"
+  }
 }
