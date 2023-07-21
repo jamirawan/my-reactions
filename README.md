@@ -1,2 +1,2 @@
 # my-reactions
-Reactjs practices
+Reactjs practices - assignment files
