@@ -31,7 +31,7 @@ export default function App() {
     </div>
   );
 }
-// modified the following code 
+// modified the following code for the custom hook usePrevious
 function usePrevious(val) {
   const ref = useRef();
   useEffect(() => {
